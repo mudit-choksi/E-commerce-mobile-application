@@ -1,11 +1,12 @@
 # React Native E-commerce
 
-E-commerce mobile application developed using React Native :necktie: :tophat:
+Mobile e-commerce application developed using React Native, the tech stack used involves mainly:
 
 - React Native
-- Redux / Saga
-- JSON Server
 - Unit Testing
+- Redux
+- JSON Server
+
 
 ## Dependencies
 
